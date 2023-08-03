@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning how to program 
 - 🌱 I’m currently learning js/python basics
 - 💞️ I’m looking to collaborate on a software/game
-- 📫 How to reach me ...
+- 📫 How to reach me met30048@gmail.com
 
 <!---
 mattiaR208/mattiaR208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
